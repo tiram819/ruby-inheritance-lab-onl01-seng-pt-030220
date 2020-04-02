@@ -6,3 +6,4 @@ def knowledge
   @knowledge
   
 end
+end
